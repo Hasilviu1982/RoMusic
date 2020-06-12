@@ -1,25 +1,3 @@
-> Zealcord simple Discord music bot projects tutorial
-
-### About
-```
-Example of a Music Bot project modified by Zealcord, made by iCrawl
-```
-This Bot is dedicated for open source of our community. Written in [Discord.JS](https://discord.js.org/#/) at version [12.2.0](https://discord.js.org/#/docs/main/stable/general/welcome).
-
-[![Run on Repl.it](https://repl.it/badge/github/zealcordNation/music-bot-example)](https://repl.it/github/zealcordNation/music-bot-example)
-
-### Required Module/Package
-```
-@discordjs/opus@0.3.2,
-discord.js@12.2.0,
-dotenv@8.2.0,
-express@4.17.1,
-simple-youtube-api@5.2.1,
-ytdl-core@2.1.2"
-```
-
-### Getting Started Using Glitch
-
 1.  Create your bot account at **[Discord Developer Portal](https://discordapp.com/developers)** and get the Token, then invite them to your servers!
 2.  Go to **[Glitch](https://glitch.com)**, click **New Project** button, then choose **`Clone from Git Repo`**.
 3.  Before doing that, We recommend you to make a Glitch account first (login) to prevent lost projects.
@@ -37,10 +15,3 @@ ytdl-core@2.1.2"
 3.  Commit your changes: `git commit -am "Add some feature"`
 4.  Push to the branch: `git push origin my-new-feature`
 5.  Submit a pull request :D
-
-### Author
-
-**Music-Bot** © [iCrawl](https://github.com/iCrawl), Released under the [MIT](https://github.com/zealcordNation/music-bot-example/blob/master/LICENSE.md) License.<br>
-Authored and maintained by iCrawl. Modified by [Zealcord](https://github.com/zealcordNation)
-
-> GitHub [@zealcordNation](https://github.com/zealcordNation)
